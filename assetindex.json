@@ -1,0 +1,11 @@
+{
+  version: 1,
+  static: [
+    'login.html',
+    'signup.html',
+    'layout.html'
+  ],
+  dynamic: [
+  ],
+  fallback: '/fallback.html'
+}
